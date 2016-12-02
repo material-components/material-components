@@ -2,7 +2,7 @@ Want to contribute? Great! First, read this page (including the [small print](#t
 
 # Contributing
 
-Material Components is intended to be a full open source project that accepts contributions
+Material Components is an open source project that accepts contributions
 from community members.
 
 - [GitHub Issues](https://TODO:URL /issues)
