@@ -14,4 +14,4 @@ For usage questions: ask on [Stack  Overflow](http://stackoverflow.com/questions
 ### Operating system and device
 
 ### Related issues
- - Type # and issue number or # and select from inline drop down.
+ - Type `#` and the issue number or `#` and select the from the inline drop down.
