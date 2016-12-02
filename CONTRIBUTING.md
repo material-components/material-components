@@ -5,10 +5,10 @@ Want to contribute? Great! First, read this page (including the [small print](#t
 Material Components is intended to be a full open source project that accepts contributions
 from community members.
 
-- [GitHub Issues](https://github.com/material-components/material-components-ios/issues)
+- [GitHub Issues](https://TODO:URL /issues)
   <!--{: .icon-github }-->
 
-- [Stack Overflow "material-components-ios"](http://stackoverflow.com/questions/tagged/material-components-ios)
+- [Stack Overflow "TODO: TAG"](http://stackoverflow.com/questions/tagged/TODO: TAG)
   <!--{: .icon-stackoverflow }-->
 <!--{: .icon-list }-->
 
@@ -25,34 +25,34 @@ spec](http://www.google.com/design/spec).
 
 ## Questions?
 
-If you have questions about how to use Material Components for iOS:
+If you have questions about how to use Material Components:
 
 - Search previous questions that have been answered by visiting [Stack
-  Overflow](http://stackoverflow.com/questions/tagged/material-components-ios).
-- Please post questions to Stack Overflow with the tag `material-components-ios`.
+  Overflow](http://stackoverflow.com/questions/tagged/TODO: TAG).
+- Please post questions to Stack Overflow with the tag `TODO: TAG`.
 
 - - -
 
 ## Found an Issue?
 
 If you find a bug in the source code or a mistake in the documentation, you can help us by
-[submitting an issue](https://github.com/material-components/material-components-ios/issues) to our GitHub
-repository. Even better: send a fix as a [pull request](https://github.com/material-components/material-components-ios/compare/)!
+[submitting an issue](https://TODO:URL /issues) to our GitHub
+repository. Even better: send a fix as a [pull request](https://TODO:URL /compare/)!
 
 - - -
 
 ## Feature Requests
 
 You can request a new feature by [submitting an
-issue](https://github.com/material-components/material-components-ios/issues) to our GitHub repository. If you
+issue](https://TODO:URL /issues) to our GitHub repository. If you
 would like to implement a new feature then consider what kind of change it is:
 
 - Major changes that you wish to contribute to the project should be discussed first on our [dev
-  mailing list](https://groups.google.com/forum/#!forum/material-components-ios-discuss) so that we
+  mailing list](TODO: URL for mailing list) so that we
   can better coordinate our efforts, prevent duplication of work, and help you to craft the change
   so that it is successfully accepted into the project.
 - Small changes can be crafted and submitted to the GitHub Repository as a [pull request]
-(https://github.com/material-components/material-components-ios/compare/).
+(https://TODO:URL /compare/).
 
 - - -
 
@@ -71,9 +71,9 @@ changes to be accepted, the CLA must be signed. It's a quick process, we promise
 ## Pull requests
 
 For major changes, it's worthwhile discussing the idea on our [mailing
-list](https://groups.google.com/forum/#!forum/material-components-ios-discuss)—that way you'll get
+list](TODO: GOOGLE GROUP)—that way you'll get
 early feedback on your idea and find out if the approach has been tried before or if someone else
-is working on it. [Search our GitHub](https://github.com/material-components/material-components-ios/issues)
+is working on it. [Search our GitHub](https://TODO:URL /issues)
 issues to see if anyone has proposed the idea before, too. Feature requests and bug fixes should be
 tracked with issues, so file one early on and assign it to yourself once you have started it.
 
@@ -118,10 +118,10 @@ Contributions made by corporations are covered by a different agreement than
 the one above, the
 [Software Grant and Corporate Contributor License Agreement](https://cla.developers.google.com/about/google-corporate).
 
-### Submitting a [Pull Request](https://github.com/material-components/material-components-ios/compare/)
+### Submitting a [Pull Request](https://TODO:URL /compare/)
 
-Once you have code that is ready to share, please create a [pull request](https://github.com/material-components/material-components-ios/compare/) against our [GitHub
-repo](https://github.com/material-components/material-components-ios). See [GitHub's documentation about pull
+Once you have code that is ready to share, please create a [pull request](https://TODO:URL /compare/) against our [GitHub
+repo](https://TODO:URL ). See [GitHub's documentation about pull
 requests](https://help.github.com/articles/using-pull-requests) for more information.
 
 ### Subject Format
@@ -142,7 +142,7 @@ A good example of a title is:
 ~~~
 
 When referencing GitHub issues, use the full URL:
-`https://github.com/material-components/material-components-ios/issues/nnn` instead of the shorthand `#nnn`.
+`https://TODO:URL /issues/nnn` instead of the shorthand `#nnn`.
 
 Pull requests will be reviewed in [Phabricator's Differential code review
 tool](http://codereview.cc) instead of directly in GitHub. When you submit your pull request, a bot
@@ -159,18 +159,18 @@ Version 2.0, January 2004
 
 [http://www.apache.org/licenses](http://www.apache.org/licenses)
 
-[https://github.com/material-components/material-components-ios/blob/develop/LICENSE](https://github.com/material-components/material-components-ios/blob/develop/LICENSE)
+[https://TODO:URL /blob/develop/LICENSE](https://TODO:URL /blob/develop/LICENSE)
 
 Copyright and License in Source Code
 
-All source files hosted on Material Components for iOS GitHub repo must contain a comment block at
+All source files hosted on a Material Components GitHub repo must contain a comment block at
 the top of the file declaring the license and copyright that applies. This text may be part of a
 larger header. The wording for the license and copyright portion must be copied as follows, with
 the appropriate years applied:
 
 ~~~ text
 
-Copyright 2016-present the Material Components for iOS authors. All Rights Reserved.
+Copyright 2016-present the TODO: AUTHORS authors. All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
 this file except in compliance with the License. You may obtain a copy of the
