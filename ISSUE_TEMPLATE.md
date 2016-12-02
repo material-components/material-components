@@ -1,5 +1,5 @@
 ### Overview
-For usage questions: ask on [Stack  Overflow](http://stackoverflow.com/questions/tagged/material-components-ios). //TODO: Solve the tagged questions issue across platforms.
+For usage questions: ask on [Stack  Overflow](http://stackoverflow.com/questions/tagged/TODO: TAG).
 
  - Context, problem or idea, solution or next step
  - Screenshots/Video (if possible)
