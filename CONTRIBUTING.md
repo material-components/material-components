@@ -44,15 +44,7 @@ repository. Even better: send a fix as a [pull request](https://TODO:URL /compar
 ## Feature Requests
 
 You can request a new feature by [submitting an
-issue](https://TODO:URL /issues) to our GitHub repository. If you
-would like to implement a new feature then consider what kind of change it is:
-
-- Major changes that you wish to contribute to the project should be discussed first on our [dev
-  mailing list](TODO: URL for mailing list) so that we
-  can better coordinate our efforts, prevent duplication of work, and help you to craft the change
-  so that it is successfully accepted into the project.
-- Small changes can be crafted and submitted to the GitHub Repository as a [pull request]
-(https://TODO:URL /compare/).
+issue](https://TODO:URL /issues) to our GitHub repository. 
 
 - - -
 
@@ -95,8 +87,7 @@ In short (slightly modified from the original article):
 Our additions:
 
 - A pull request should affect as few components as possible.
-- Pull requests must include a modification to the CHANGELOG.md summarizing the
-  change.
+
 
 ### Submitting a [Pull Request](https://TODO:URL /compare/)
 
