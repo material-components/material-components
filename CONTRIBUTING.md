@@ -112,7 +112,6 @@ Contributions made by corporations are covered by a different agreement than the
 - - -
 
 ## Useful Links
-- [Contributing](CONTRIBUTING.md)
 - [Filing an Issue](ISSUE_TEMPLATE.md)
 - [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
 - [Code of Conduct](CONDUCT.md)
