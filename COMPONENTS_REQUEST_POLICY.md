@@ -52,3 +52,13 @@ rather than build new ones. Each team may choose to provide guidance on how to a
 general you are advised to follow the conventions of your platform. This could mean either
 subclassing the component, overriding the component’s styles via your platform’s styling mechanism,
 or some other means.
+
+- - -
+
+## Useful Links
+- [Contributing](CONTRIBUTING.md)
+- [Filing an Issue](ISSUE_TEMPLATE.md)
+- [Code of Conduct](CONDUCT.md)
+- [Stack Overflow](https://www.stackoverflow.com/questions/tagged/material-components) (external site)
+- [Material.io](https://www.material.io) (external site)
+- [Material Design Guidelines](https://material.google.com) (external site)
