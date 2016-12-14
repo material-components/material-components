@@ -7,7 +7,6 @@ Want to contribute? Great! First, read this page (including the [small print](#t
 
 If you’ve never contributed to an open source project before, take a look at GitHub’s [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) to learn some of the basics.
 
-- - -
 
 ## Code of Conduct
 
@@ -15,13 +14,11 @@ The Material Components authors value respect and are committed to making the re
 
 To learn more about what to expect from us and what we expect from you, read the [Code of Conduct](CONDUCT.md).
 
-- - -
 
 ## Questions?
 
 Ask them on [Stack Overflow](http://stackoverflow.com/questions/tagged/material-components) and tag them with `material-components` and the platform (`android`, `ios`, `web`.)
 
-- - -
 
 ## Issues and Bugs
 
@@ -30,7 +27,6 @@ submitting an issue to the GitHub repository for that platform.
 
 Even better: proposed a fix with a pull request and link it to the issue!
 
-- - -
 
 ## Feature or Component Requests
 
@@ -38,7 +34,6 @@ To learn how to request new components or changes to the UX of an existing compo
 
 You can request new features that do not change the UX on an existing component by submitting an issue to the GitHub repository for that platform.
 
-- - -
 
 ## Pull Requests
 
@@ -52,19 +47,16 @@ To make a pull request:
 1. The pull request will be triaged by a core team member and code reviewed by the community.
 1. If the pull request is accepted, the accepting core team member will merge the pull request for you.
 
-- - -
 
 ### Coding Conventions
 
 MDC follows certain coding styles and conventions. See the `CONTRIBUTING` files in the platform specific repos for more information.
 
-- - -
 
 ### Code review
 
 Regardless of language or platform, all code goes through code review before it can be merged into main branches.
 
-- - -
 
 ### Tips
 
@@ -83,14 +75,12 @@ Our additions:
 
 - A pull request should affect as few components as possible.
 
-- - -
 
 ## Community Structure
 
 Members of the core team are Google employees responsible for the strategic direction of Material Components and appointment of technical leaders from the community. The core team will work with the community to accept contributions in line with [Material Design
 guidelines](http://material.google.com).
 
-- - -
 
 ## Signing the CLA
 
@@ -109,7 +99,6 @@ For any code changes to be accepted, the CLA must be signed. It's a quick proces
 
 Contributions made by corporations are covered by a different agreement than the one above, the [Software Grant and Corporate Contributor License Agreement](https://cla.developers.google.com/about/google-corporate).
 
-- - -
 
 ## Useful Links
 - [Filing an Issue](ISSUE_TEMPLATE.md)
