@@ -8,7 +8,7 @@ from community members.
 - [GitHub Issues](https://TODO:URL /issues)
   <!--{: .icon-github }-->
 
-- [Stack Overflow "TODO: TAG"](http://stackoverflow.com/questions/tagged/material-components)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/material-components)
   <!--{: .icon-stackoverflow }-->
 <!--{: .icon-list }-->
 
