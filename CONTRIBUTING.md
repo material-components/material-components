@@ -5,13 +5,6 @@ Want to contribute? Great! First, read this page (including the [small print](#t
 Material Components is an open source project that accepts contributions
 from community members.
 
-- [GitHub Issues](https://TODO:URL /issues)
-  <!--{: .icon-github }-->
-
-- [Stack Overflow "TODO: TAG"](http://stackoverflow.com/questions/tagged/TODO: TAG)
-  <!--{: .icon-stackoverflow }-->
-<!--{: .icon-list }-->
-
 - - -
 
 ## Community Structure
@@ -23,28 +16,18 @@ spec](http://www.google.com/design/spec).
 
 - - -
 
-## Questions?
-
-If you have questions about how to use Material Components:
-
-- Search previous questions that have been answered by visiting [Stack
-  Overflow](http://stackoverflow.com/questions/tagged/TODO: TAG).
-- Please post questions to Stack Overflow with the tag `TODO: TAG`.
-
-- - -
 
 ## Found an Issue?
 
-If you find a bug in the source code or a mistake in the documentation, you can help us by
-[submitting an issue](https://TODO:URL /issues) to our GitHub
-repository. Even better: send a fix as a [pull request](https://TODO:URL /compare/)!
+If you find a bug in the source code or a mistake in the documentation, you can help us by 
+submitting an issue to the GitHub repository for that platform. Even better: propose a fix 
+as a pull request!
 
 - - -
 
 ## Feature Requests
 
-You can request a new feature by [submitting an
-issue](https://TODO:URL /issues) to our GitHub repository. 
+You can request a new feature by submitting an issue to our GitHub repository for that platform. 
 
 - - -
 
@@ -65,6 +48,8 @@ changes to be accepted, the CLA must be signed. It's a quick process, we promise
 MDC follows certain [coding styles and conventions](code-conventions.md) for its code to help
 everyone easily read, review, and understand our code. Please follow these conventions when
 submitting pull requests.
+
+- - -
 
 ### Tips for a good pull request
 
@@ -89,10 +74,10 @@ Our additions:
 - A pull request should affect as few components as possible.
 
 
-### Submitting a [Pull Request](https://TODO:URL /compare/)
+### Submitting a Pull Request
 
-Once you have code that is ready to share, please create a [pull request](https://TODO:URL /compare/) against our [GitHub
-repo](https://TODO:URL ). See [GitHub's documentation about pull
+Once you have code that is ready to share, please create a pull request against the GitHub
+repo for the MDC platform it corresponds to. See [GitHub's documentation about pull
 requests](https://help.github.com/articles/using-pull-requests) for more information.
 
 - - -
