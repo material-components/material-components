@@ -72,3 +72,12 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+
+## Useful Links
+
+- [Contributing](CONTRIBUTING.md)
+- [Filing an Issue](ISSUE_TEMPLATE.md)
+- [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
+- [Stack Overflow](https://www.stackoverflow.com/questions/tagged/material-components) (external site)
+- [Material.io](https://www.material.io) (external site)
+- [Material Design Guidelines](https://material.google.com) (external site)
