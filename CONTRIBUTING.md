@@ -23,15 +23,6 @@ spec](http://www.google.com/design/spec).
 
 - - -
 
-## Questions?
-
-If you have questions about how to use Material Components:
-
-- Search previous questions that have been answered by visiting [Stack
-  Overflow](http://stackoverflow.com/questions/tagged/material-components).
-- Please post questions to Stack Overflow with the tag `material-components`.
-
-- - -
 
 ## Found an Issue?
 
