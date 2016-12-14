@@ -5,8 +5,9 @@ Material Components for Android, iOS and the web help developers execute [Materi
 This repo contains all common documentation for Material Components projects across the different platforms.
 
 ## Useful Links
-- [Code of Conduct](CONDUCT.md)
-- [Filing an Issue](ISSUE_TEMPLATE.md)
 - [Contributing](CONTRIBUTING.md)
+- [Filing an Issue](ISSUE_TEMPLATE.md)
+- [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
+- [Code of Conduct](CONDUCT.md)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
