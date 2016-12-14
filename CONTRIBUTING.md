@@ -22,15 +22,15 @@ Ask them on [Stack Overflow](http://stackoverflow.com/questions/tagged/material-
 
 ## Issues and Bugs
 
-If you find a bug in the source code or a mistake in the documentation, you can help us by 
-submitting an issue to the GitHub repository for that platform. 
+If you find a bug in the source code or a mistake in the documentation, you can help us by
+submitting an issue to the GitHub repository for that platform.
 
 Even better: proposed a fix with a pull request and link it to the issue!
 
 
 ## Feature or Component Requests
 
-To learn how to request new components or changes to the UX of an existing component, read [Components Request Policy](COMPONENTS_REQUEST_POLICY.md). 
+To learn how to request new components or changes to the UX of an existing component, read [Components Request Policy](COMPONENTS_REQUEST_POLICY.md).
 
 You can request new features that do not change the UX on an existing component by submitting an issue to the GitHub repository for that platform.
 
@@ -40,12 +40,13 @@ You can request new features that do not change the UX on an existing component 
 The best way to make an impact is by creating code submissions called pull requests. Pull requests should be ‘solutions’ to GitHub issues.
 
 To make a pull request:
+
 1. Make sure there’s a GitHub issue for the change you’re proposing.
-1. [Fork](https://help.github.com/articles/fork-a-repo/) the repo for the platform your code works in.
-1. Write code on a branch in your fork.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to merge your branch’s contributions into the corresponding MDC repo.
-1. The pull request will be triaged by a core team member and code reviewed by the community.
-1. If the pull request is accepted, the accepting core team member will merge the pull request for you.
+2. [Fork](https://help.github.com/articles/fork-a-repo/) the repo for the platform your code works in.
+3. Write code on a branch in your fork.
+4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to merge your branch’s contributions into the corresponding MDC repo.
+5. The pull request will be triaged by a core team member and code reviewed by the community.
+6. If the pull request is accepted, the accepting core team member will merge the pull request for you.
 
 
 ### Coding Conventions
@@ -84,7 +85,7 @@ guidelines](http://material.google.com).
 
 ## Signing the CLA
 
-Please sign our Contributor License Agreement (CLA) before sending pull requests. 
+Please sign our Contributor License Agreement (CLA) before sending pull requests.
 
 For any code changes to be accepted, the CLA must be signed. It's a quick process, we promise!
 
