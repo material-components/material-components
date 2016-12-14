@@ -1,11 +1,9 @@
-Want to contribute? Great! First, read this page (including the [small print](#the-small-print)).
-
-- - -
 
 # Contributing
 
-Material Components is an open source project that accepts contributions
-from community members.
+Material Components is an open source project that accepts contributionsfrom community members.
+
+Want to contribute? Great! First, read this page (including the [small print](#the-small-print)).
 
 If you’ve never contributed to an open source project before, take a look at GitHub’s [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) to learn some of the basics.
 
