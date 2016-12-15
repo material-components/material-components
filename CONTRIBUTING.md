@@ -42,11 +42,11 @@ The best way to make an impact is by creating code submissions called pull reque
 To make a pull request:
 
 1. Make sure there’s a GitHub issue for the change you’re proposing.
-2. [Fork](https://help.github.com/articles/fork-a-repo/) the repo for the platform your code works in.
-3. Write code on a branch in your fork.
-4. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to merge your branch’s contributions into the corresponding MDC repo.
-5. The pull request will be triaged by a core team member and code reviewed by the community.
-6. If the pull request is accepted, the accepting core team member will merge the pull request for you.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) the repo for the platform your code works in.
+1. Write code on a branch in your fork.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) to merge your branch’s contributions into the corresponding MDC repo.
+1. The pull request will be triaged by a core team member and code reviewed by the community.
+1. If the pull request is accepted, the accepting core team member will merge the pull request for you.
 
 
 ### Coding Conventions
