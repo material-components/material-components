@@ -4,6 +4,11 @@ Material Components for Android, iOS and the web help developers execute [Materi
 
 This repo contains all common documentation for Material Components projects across the different platforms.
 
+## Repos
+- [Material Components Android](https://github.com/material-components/material-components-android)
+- [Material Components iOS](https://github.com/material-components/material-components-ios)
+- [Material Components Web](https://github.com/material-components/material-components-web)
+
 ## Useful Links
 - [Contributing](CONTRIBUTING.md)
 - [Filing an Issue](ISSUE_TEMPLATE.md)
