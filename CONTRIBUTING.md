@@ -25,7 +25,7 @@ Ask them on [Stack Overflow](http://stackoverflow.com/questions/tagged/material-
 If you find a bug in the source code or a mistake in the documentation, you can help us by
 submitting an issue to the GitHub repository for that platform.
 
-Even better: proposed a fix with a pull request and link it to the issue!
+Even better: propose a fix with a pull request and link it to the issue!
 
 
 ## Feature or Component Requests
