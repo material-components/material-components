@@ -1,0 +1,8 @@
+# Doc site configuration.
+# TODO(shyndman): Link to documentation.
+basepath: /
+site_title: Material Components
+site_description: >
+  Material Components are a set of user interface components that help developers build web, Android and iOS apps with Material Design.
+repo_url: https://github.com/material-components
+repo_stable_branch: master
