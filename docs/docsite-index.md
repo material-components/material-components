@@ -7,7 +7,7 @@ path: /
 {% contentfor benefits %}
 <ul class="benefits-list">
   <li class="benefits-list-item">
-    <h3>Pixel-perfect</h3>
+    <h3>Accurate</h3>
     <p>Implement <a href="https://material.io/guidelines">Material Design</a> with pixel-perfect components for Android, iOS, and the web</p>
   </li>
   <li class="benefits-list-item">
