@@ -33,6 +33,6 @@ and adherence to Google’s front-end development standards, such as
 internationalization and accessibility support.
 
 Material Design widgets are also available for
-[Flutter](https://flutter-io-deploy-four.firebaseapp.com/widgets/material/), a
-mobile app SDK for building high-performance, high-fidelity, apps for iOS and
-Android, from a single codebase.
+[Flutter](https://flutter.io/widgets/material/), a mobile app SDK for building
+high-performance, high-fidelity, apps for iOS and Android, from a single
+codebase.
