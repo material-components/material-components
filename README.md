@@ -14,6 +14,7 @@ This repo contains all common documentation for Material Components projects acr
 - [Filing an Issue](ISSUE_TEMPLATE.md)
 - [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
 - [Code of Conduct](CONDUCT.md)
+- [Discord Chat Channel](https://discord.gg/material-components)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/material-components) (external site)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
