@@ -12,7 +12,7 @@ If you’ve never contributed to an open source project before, take a look at G
 
 The Material Components authors value respect and are committed to making the repos and communication channels a safe space for all peoples.
 
-To learn more about what to expect from us and what we expect from you, read the [Code of Conduct](CONDUCT.md).
+To learn more about what to expect from us and what we expect from you, read the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 
 ## Questions?
@@ -102,7 +102,7 @@ Contributions made by corporations are covered by a different agreement than the
 ## Useful Links
 - [Filing an Issue](ISSUE_TEMPLATE.md)
 - [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
-- [Code of Conduct](CONDUCT.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Stack Overflow](https://www.stackoverflow.com/questions/tagged/material-components) (external site)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
