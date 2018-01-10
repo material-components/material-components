@@ -21,7 +21,7 @@ For usage questions: ask on [Stack  Overflow](http://stackoverflow.com/questions
 ## Useful Links
 - [Contributing](CONTRIBUTING.md)
 - [Components Request Policy](COMPONENTS_REQUEST_POLICY.md)
-- [Code of Conduct](CONDUCT.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Stack Overflow](https://www.stackoverflow.com/questions/tagged/material-components) (external site)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
