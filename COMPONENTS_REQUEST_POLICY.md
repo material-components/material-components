@@ -58,7 +58,7 @@ or some other means.
 ## Useful Links
 - [Contributing](CONTRIBUTING.md)
 - [Filing an Issue](ISSUE_TEMPLATE.md)
-- [Code of Conduct](CONDUCT.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Stack Overflow](https://www.stackoverflow.com/questions/tagged/material-components) (external site)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
