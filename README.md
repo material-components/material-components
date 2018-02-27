@@ -1,6 +1,6 @@
 # Material Components: Shared Documentation and Policies
 
-Material Components for Android, iOS and the web help developers execute [Material Design](https://www.material.io) with modular and customizable UI components. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional user experiences.
+Material Components for Android, iOS, web and Flutter help developers execute [Material Design](https://www.material.io) with modular and customizable UI components. Developed by a core team of engineers and UX designers at Google, these components enable a reliable development workflow to build beautiful and functional user experiences.
 
 This repo contains all common documentation for Material Components projects across the different platforms.
 
@@ -8,6 +8,7 @@ This repo contains all common documentation for Material Components projects acr
 - [Material Components Android](https://github.com/material-components/material-components-android)
 - [Material Components iOS](https://github.com/material-components/material-components-ios)
 - [Material Components Web](https://github.com/material-components/material-components-web)
+- [Material Components Flutter](https://github.com/material-components/material-components-flutter)
 
 ## Useful Links
 - [Contributing](CONTRIBUTING.md)
