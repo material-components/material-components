@@ -41,6 +41,7 @@ The best way to make an impact is by creating code submissions called pull reque
 
 To make a pull request:
 
+1. Run scripts/install_contributor_tools.
 1. Make sure there’s a GitHub issue for the change you’re proposing.
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repo for the platform your code works in.
 1. Write code on a branch in your fork.
