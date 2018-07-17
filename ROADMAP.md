@@ -57,11 +57,11 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
     | Buttons |  R15 | 1.0  | --  |  55.0.2  |  0.35.1 |   Beta 3 |
     | Cards |   R15 | 1.0  | --  |  55.0.2 |  0.35.1   |  Beta 3 |
 
-## Upcoming Releases
 ### R16 - June 2018
 -  Polish on R15 May 2018 (I/O)
 -  Improved accessibility support
 
+## Upcoming Releases
 
 ### R17 - July 2018
 -  Android Color Theme update
