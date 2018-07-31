@@ -3,22 +3,18 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 
 ## Current Release
 
-### R16 - June 2018
--  Polish on R15 May 2018 (I/O)
--  Improved accessibility support
-
-## Upcoming Releases
-
 ### R17 - July 2018
--  Android Color Theme update
-    - Namespace changes to align with other platforms
 - Android components move from Alpha -> Beta
--  Expanded set of components for use in your products
+- Expanded set of components for use in your products
 
     | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
     | -- | :--: | :--: | :--: | :--: | :--: | :--: |
-    | Backdrop  |   R17 | 1.0 | **:new: TBA**   | -- | --   |  Beta 3 |
-    | Tabs |   R17 | 1.0 | 1.0.0-alpha1  | 55.0.2 | **:new: TBA**  | Beta 3 |
+    | Extended FAB |   R17 | 1.0  | --  |  55.0.2 | **:new: 0.37.0**   |  Beta 3 |
+    | List | R17 | 1.0  |  -- |  --  |  **:new: 0.37.0** |  -- |    
+    | Tabs |   R17 | 1.0 | 1.0.0-alpha1  | 55.0.2 | **:new: 0.38.0**  | Beta 3 |
+
+
+## Upcoming Releases
 
 
 ### R18 - August 2018
@@ -54,6 +50,10 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 - New navigation patterns
 
 ## Previous Releases
+
+### R16 - June 2018
+-  Polish on R15 May 2018 (I/O)
+-  Improved accessibility support
 
 ### R15 - May 2018
 -  The first release of Material Theming, announced at Google I/O, is our new end-to-end capability that allows users to systematically apply brand across their products – from design to code. This release supports customizations to your type theme and color theme across components.
