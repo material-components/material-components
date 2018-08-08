@@ -18,7 +18,6 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 
 
 ### R18 - August 2018
-- [Shape Theme](https://material.io/go/design-shape) released 
 -  Expanded set of components for use in your products
 
     | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
