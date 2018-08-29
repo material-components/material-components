@@ -3,6 +3,39 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 
 ## Current Release
 
+
+### R18 - August 2018
+-  Expanded set of components for use in your products
+
+    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
+    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
+    | Navigation Drawer | R18 | 1.0  |  -- |   **:new: 61.0.0**  |  **:new: 0.39.0** |  Beta 3 |    
+    | Menu | R18 | 1.0  |  -- |  --  |  **:new: 0.39.0** |  Beta 3 |     
+
+
+## Upcoming Releases
+
+### R19 - September 2018
+
+- Color support added for these components (https://material.io/go/design-color-theming)
+
+    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
+    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
+    | Checkboxes | R19  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
+    | Radio Buttons | R19  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
+    | Switches | R19  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
+
+
+### R20, R21, R22 - Forecast for October-December
+- [Shape Theme](https://material.io/go/design-shape) released 
+- New Sheet types – Additional components that extends the capabilities and usage patterns of sheets
+- Color Theme: Dark – guidance for apps to adjust their color schemes to maximum usable darkness that is still aesthetically appealing
+- New navigation patterns
+- Dialogs
+- Lists 
+
+## Previous Releases
+
 ### R17 - July 2018
 - Android components move from Alpha -> Beta
 - Expanded set of components for use in your products
@@ -12,35 +45,6 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
     | Extended FAB |   R17 | 1.0  | --  |  55.0.2 | **:new: 0.37.0**   |  Beta 3 |
     | List | R17 | 1.0  |  -- |  --  |  **:new: 0.37.0** |  -- |    
     | Tabs |   R17 | 1.0 | 1.0.0-alpha1  | 55.0.2 | **:new: 0.38.0**  | Beta 3 |
-
-
-## Upcoming Releases
-
-
-### R18 - August 2018
--  Expanded set of components for use in your products
-
-    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
-    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
-    | Navigation Drawer | R18 | 1.0  |  -- |   --  |  **:new: TBA** |  Beta 3 |    
-    | Menu | R18 | 1.0  |  -- |  --  |  **:new: TBA** |  Beta 3 |     
-
-- Color support added for these components (https://material.io/go/design-color-theming)
-
-    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
-    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
-    | Checkboxes | R18  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
-    | Radio Buttons | R18  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
-    | Switches | R18  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
-
-
-### R19, R20, R21, R22 - Forecast for September-November
-- [Shape Theme](https://material.io/go/design-shape) released 
-- New Sheet types – Additional components that extends the capabilities and usage patterns of sheets
-- Color Theme: Dark – capability for apps to adjust their color schemes to maximum usable darkness that is still aesthetically appealing
-- New navigation patterns
-
-## Previous Releases
 
 ### R16 - June 2018
 -  Polish on R15 May 2018 (I/O)
