@@ -3,17 +3,21 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 
 ## Current Release
 
-
-### R18 - August 2018
--  Expanded set of components for use in your products
-
-    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
-    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
-    | Navigation Drawer | R18 | 1.0  |  -- |   **:new: 61.0.0**  |  **:new: 0.39.0** |  Beta 3 |    
-    | Menu | R18 | 1.0  |  -- |  --  |  **:new: 0.39.0** |  Beta 3 |     
-
+### R20 - October 2018
+- New Sheet types – Additional components that extends the capabilities and usage patterns of sheets
+- New navigation patterns
+- Dialogs
+- Lists 
 
 ## Upcoming Releases
+ 
+### R21 - December 2018
+- [Shape Theme](https://material.io/go/design-shape) released
+
+### R22 - Q1 2019
+- Color Theme: Dark – guidance for apps to adjust their color schemes to maximum usable darkness that is still aesthetically appealing
+
+## Previous Releases
 
 ### R19 - September 2018
 
@@ -25,16 +29,13 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
     | Radio Buttons | R19  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
     | Switches | R19  | 1.0  | **:new: TBA**  | -- |  0.35.1  | Beta 3 |
 
+### R18 - August 2018
+-  Expanded set of components for use in your products
 
-### R20, R21, R22 - Forecast for October-December
-- [Shape Theme](https://material.io/go/design-shape) released 
-- New Sheet types – Additional components that extends the capabilities and usage patterns of sheets
-- Color Theme: Dark – guidance for apps to adjust their color schemes to maximum usable darkness that is still aesthetically appealing
-- New navigation patterns
-- Dialogs
-- Lists 
-
-## Previous Releases
+    | Component | Guidelines | Material Plugin | Android | iOS | Web | Flutter |
+    | -- | :--: | :--: | :--: | :--: | :--: | :--: |
+    | Navigation Drawer | R18 | 1.0  |  -- |   **:new: 61.0.0**  |  **:new: 0.39.0** |  Beta 3 |    
+    | Menu | R18 | 1.0  |  -- |  --  |  **:new: 0.39.0** |  Beta 3 | 
 
 ### R17 - July 2018
 - Android components move from Alpha -> Beta
