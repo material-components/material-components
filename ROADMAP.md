@@ -27,7 +27,7 @@ Material is designed to evolve over time. Starting with Release 15 (R15) we will
 
 
 ### R20, R21, R22 - Forecast for October-December
-- [Shape Theme](https://material.io/go/design-shape) released 
+- [Shape Theme](https://material.io/go/design-shape) release
 - New Sheet types – Additional components that extends the capabilities and usage patterns of sheets
 - Color Theme: Dark – guidance for apps to adjust their color schemes to maximum usable darkness that is still aesthetically appealing
 - New navigation patterns
