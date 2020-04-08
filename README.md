@@ -18,4 +18,4 @@ This repo contains all common documentation for Material Components projects acr
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/material-components) (external site)
 - [Material.io](https://www.material.io) (external site)
 - [Material Design Guidelines](https://material.google.com) (external site)
-- [Discord Chat Rooms](https://discord.gg/material-components)
+- [Discord Chat Rooms](https://discord.gg/material-components) (external site)
