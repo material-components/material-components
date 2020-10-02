@@ -9,6 +9,7 @@ This repo contains all common documentation for Material Components projects acr
 - [Material Components iOS](https://github.com/material-components/material-components-ios)
 - [Material Components Web](https://github.com/material-components/material-components-web)
 - [Material Components Flutter](https://github.com/material-components/material-components-flutter)
+- [Material Components Web Components](https://github.com/material-components/material-components-web-components) (Experimental)
 
 ## Useful Links
 - [Contributing](CONTRIBUTING.md)
